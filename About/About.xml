@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>Apex: Rimworld Legends CE Patch</name>
+	<author>Andross</author>
+	<url>https://github.com/Onigamii/ARL-CE</url>
+	<supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+	<description>Combat Extended compatibility patch for Apex: Rimworld Legends mod\n\nApex: Rimworld Legends by OskarPotocki</description>
+</ModMetaData>

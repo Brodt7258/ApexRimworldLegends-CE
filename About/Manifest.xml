@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+    <identifier>ApexRimworldLegendsCE</identifier>
+    <version>1.2</version>
+    <dependencies>
+      <li>Apex: Rimworld Legends</li>
+      <li>Combat Extended</li>
+    </dependencies>
+    <incompatibleWith>
+    </incompatibleWith>
+    <loadBefore>
+    </loadBefore>
+    <loadAfter>
+      <li>Apex: Rimworld Legends</li>
+      <li>Combat Extended</li>
+    </loadAfter>
+    <suggests>
+        <li>Combat Extended Guns</li>
+        <li>Spartan Foundry</li>
+        <li>Vanilla Animals Expanded</li>
+    </suggests>
+    <showCrossPromotions>true</showCrossPromotions>
+    <manifestUri>https://raw.githubusercontent.com/Onigamii/ARL-CE/master/About/Manifest.xml</manifestUri>
+    <downloadUri>https://github.com/Onigamii/ARL-CE/releases/latest</downloadUri>
+</Manifest>
