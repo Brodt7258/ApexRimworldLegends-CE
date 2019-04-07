@@ -1,0 +1,3 @@
+### Apex: Rimworld Legends CE Patch
+
+[Apex: Rimworld Legends](https://steamcommunity.com/sharedfiles/filedetails/?id=1688705593) compatibility patch for Combat Extended.
