@@ -6,7 +6,7 @@
   
   <dependencies>
 	<li>1688705593</li> <!-- Apex: Rimworld Legends -->
-	<li>960196012</li> <!-- Combat Extended -->
+	<li>1631756268</li> <!-- Combat Extended -->
   </dependencies>
 
   <incompatibleWith></incompatibleWith>
@@ -14,7 +14,7 @@
 
   <loadAfter>
     <li>1688705593</li> <!-- Apex: Rimworld Legends -->
-    <li>960196012</li> <!-- Combat Extended -->
+    <li>1631756268</li> <!-- Combat Extended -->
   </loadAfter>
 
   <suggests>
