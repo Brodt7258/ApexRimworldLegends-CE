@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
 
-  <identifier>ApexRimworldLegends-CE</identifier>
+  <identifier>ApexRimworldLegends-CE - fork</identifier>
   <version>1.3.0</version>
   
   <dependencies>
 	<li>1688705593</li> <!-- Apex: Rimworld Legends -->
-	<li>1631756268</li> <!-- Combat Extended -->
+	<li>1865597143</li> <!-- Combat Extended: FastTrack Edition -->
   </dependencies>
 
   <incompatibleWith></incompatibleWith>
@@ -14,7 +14,7 @@
 
   <loadAfter>
     <li>1688705593</li> <!-- Apex: Rimworld Legends -->
-    <li>1631756268</li> <!-- Combat Extended -->
+    <li>1865597143</li> <!-- Combat Extended: FastTrack Edition -->
   </loadAfter>
 
   <suggests>
