@@ -19,7 +19,7 @@
       <recoilAmount>3.45</recoilAmount>
       <verbClass>CombatExtended.Verb_ShootCE</verbClass>
       <hasStandardCommand>true</hasStandardCommand>
-      <defaultProjectile>Bullet_M74_Incendiary</defaultProjectile>
+      <defaultProjectile>Bullet_30x64mmFuel_Incendiary</defaultProjectile>
       <burstShotCount>8</burstShotCount>
       <ticksBetweenBurstShots>16</ticksBetweenBurstShots>
       <warmupTime>3.33</warmupTime>
@@ -36,7 +36,7 @@
     <AmmoUser>
       <magazineSize>8</magazineSize>
       <reloadTime>15</reloadTime>
-      <ammoSet>AmmoSet_M74</ammoSet>
+      <ammoSet>AmmoSet_30x64mmFuel</ammoSet>
     </AmmoUser>
   
     <FireModes />
