@@ -114,7 +114,7 @@
       <burstShotCount>2</burstShotCount>
       <ticksBetweenBurstShots>5.66</ticksBetweenBurstShots>
       <warmupTime>1.0</warmupTime>
-      <range>34</range>
+      <range>55</range>
       <soundCast>Shot_AssaultRifle</soundCast>
       <soundCastTail>GunTail_Medium</soundCastTail>
       <muzzleFlashScale>9</muzzleFlashScale>
@@ -294,11 +294,11 @@
       <recoilAmount>1.96</recoilAmount>
       <verbClass>CombatExtended.Verb_ShootCE</verbClass>
       <hasStandardCommand>true</hasStandardCommand>
-      <defaultProjectile>Bullet_5x35mmCharged</defaultProjectile>
+      <defaultProjectile>Ammo_8mmRailgun_Sabot</defaultProjectile>
       <burstShotCount>2</burstShotCount>
       <ticksBetweenBurstShots>3</ticksBetweenBurstShots>
       <warmupTime>1</warmupTime>
-      <range>30</range>
+      <range>75</range>
       <soundCast>Shot_ChargeRifle</soundCast>
       <soundCastTail>GunTail_Heavy</soundCastTail>
       <muzzleFlashScale>9</muzzleFlashScale>
@@ -307,7 +307,7 @@
     <AmmoUser>
       <magazineSize>26</magazineSize>
       <reloadTime>4</reloadTime>
-      <ammoSet>AmmoSet_5x35mmCharged</ammoSet>
+      <ammoSet>AmmoSet_8mmRailgun</ammoSet>
     </AmmoUser>
   
     <FireModes />
