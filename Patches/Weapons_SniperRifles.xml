@@ -99,7 +99,7 @@
       <WorkToMake>48000</WorkToMake>
       <Bulk>12.24</Bulk>
       <Mass>4.3</Mass>
-      <SightsEfficiency>2</SightsEfficiency>
+      <SightsEfficiency>3</SightsEfficiency>
       <ShotSpread>0.02</ShotSpread>
       <SwayFactor>1.92</SwayFactor>
       <RangedWeapon_Cooldown>2.3</RangedWeapon_Cooldown>
@@ -109,11 +109,11 @@
       <recoilAmount>2.11</recoilAmount>
       <verbClass>CombatExtended.Verb_ShootCE</verbClass>
       <hasStandardCommand>true</hasStandardCommand>
-      <defaultProjectile>Bullet_5656Spencer</defaultProjectile>
+      <defaultProjectile>Bullet_8x35mmCharged</defaultProjectile>
       <burstShotCount>3</burstShotCount>
       <ticksBetweenBurstShots>3</ticksBetweenBurstShots>
       <warmupTime>3.5</warmupTime>
-      <range>75</range>
+      <range>100</range>
       <soundCast>Shot_SniperRifle</soundCast>
       <soundCastTail>GunTail_Heavy</soundCastTail>
       <muzzleFlashScale>9</muzzleFlashScale>
@@ -122,7 +122,7 @@
     <AmmoUser>
       <magazineSize>5</magazineSize>
       <reloadTime>3.2</reloadTime>
-      <ammoSet>AmmoSet_5656Spencer</ammoSet>
+      <ammoSet>AmmoSet_8x35mmCharged</ammoSet>
     </AmmoUser>
   
     <FireModes />
@@ -203,7 +203,7 @@
       <hasStandardCommand>true</hasStandardCommand>
       <defaultProjectile>Bullet_338Lapua_FMJ</defaultProjectile>
       <warmupTime>0.90</warmupTime>
-      <range>56</range>
+      <range>65</range>
       <soundCast>Shot_SniperRifle</soundCast>
       <soundCastTail>GunTail_Heavy</soundCastTail>
       <muzzleFlashScale>9</muzzleFlashScale>
@@ -281,7 +281,7 @@
       <WorkToMake>100000</WorkToMake>
       <Bulk>14.6</Bulk>
       <Mass>13.53</Mass>
-      <SightsEfficiency>3</SightsEfficiency>
+      <SightsEfficiency>3.5</SightsEfficiency>
       <ShotSpread>0.01</ShotSpread>
       <SwayFactor>2.23</SwayFactor>
       <RangedWeapon_Cooldown>3.13</RangedWeapon_Cooldown>
@@ -291,7 +291,7 @@
       <recoilAmount>3.21</recoilAmount>
       <verbClass>CombatExtended.Verb_ShootCE</verbClass>
       <hasStandardCommand>true</hasStandardCommand>
-      <defaultProjectile>Bullet_ARL_50mmMechanoid</defaultProjectile>
+      <defaultProjectile>Bullet_12mmRailgun_Sabot</defaultProjectile>
       <warmupTime>3.5</warmupTime>
       <range>120</range>
       <soundCast>ARL_Shot_MechanoidSniperRifle</soundCast>
@@ -302,7 +302,7 @@
     <AmmoUser>
       <magazineSize>4</magazineSize>
       <reloadTime>3.6</reloadTime>
-      <ammoSet>AmmoSet_ARL_50mmMechanoid</ammoSet>
+      <ammoSet>AmmoSet_12mmRailgun</ammoSet>
     </AmmoUser>
   
     <FireModes />
@@ -331,9 +331,10 @@
           <capacities>
             <li>Blunt</li>
           </capacities>
-          <power>9</power>
+          <power>12</power>
+          <chanceFactor>1.5</chanceFactor>
           <cooldownTime>2</cooldownTime>
-          <armorPenetration>0.86</armorPenetration>
+          <armorPenetration>3.5</armorPenetration>
           <linkedBodyPartsGroup>Stock</linkedBodyPartsGroup>
         </li> 
   
@@ -343,9 +344,9 @@
             <li>Blunt</li>
             <li>Poke</li>
           </capacities>
-          <power>9</power>
+          <power>8</power>
           <cooldownTime>2</cooldownTime>
-          <armorPenetration>0.116</armorPenetration>
+          <armorPenetration>1.603</armorPenetration>
           <linkedBodyPartsGroup>Barrel</linkedBodyPartsGroup>
         </li> 
   
@@ -354,9 +355,9 @@
           <capacities>
             <li>Poke</li>
           </capacities>
-          <power>9</power>
+          <power>10</power>
           <cooldownTime>2</cooldownTime>
-          <armorPenetration>0.86</armorPenetration>
+          <armorPenetration>2.755</armorPenetration>
           <linkedBodyPartsGroup>Muzzle</linkedBodyPartsGroup>
         </li> 
       </tools>
