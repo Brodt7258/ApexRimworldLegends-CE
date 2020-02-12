@@ -292,8 +292,7 @@
       <verbClass>CombatExtended.Verb_ShootCE</verbClass>
       <hasStandardCommand>true</hasStandardCommand>
       <defaultProjectile>Bullet_20Gauge_Buck</defaultProjectile>
-      <burstShotCount>3</burstShotCount>
-      <ticksBetweenBurstShots>1</ticksBetweenBurstShots>
+      <ticksBetweenBurstShots>10</ticksBetweenBurstShots>
       <warmupTime>1.8</warmupTime>
       <range>18</range>
       <soundCast>Shot_Revolver</soundCast>
@@ -302,7 +301,7 @@
     </Properties>
   
     <AmmoUser>
-      <magazineSize>6</magazineSize>
+      <magazineSize>3</magazineSize>
       <reloadTime>3.66</reloadTime>
       <ammoSet>AmmoSet_20Gauge</ammoSet>
     </AmmoUser>
