@@ -201,9 +201,9 @@
       <recoilAmount>2.42</recoilAmount>
       <verbClass>CombatExtended.Verb_ShootCE</verbClass>
       <hasStandardCommand>true</hasStandardCommand>
-      <defaultProjectile>Bullet_762x39mmSoviet_FMJ</defaultProjectile>
+      <defaultProjectile>Bullet_44Magnum_FMJ</defaultProjectile>
       <warmupTime>0.46</warmupTime>
-      <range>24</range>
+      <range>30</range>
       <soundCast>Shot_Revolver</soundCast>
       <soundCastTail>GunTail_Light</soundCastTail>
       <muzzleFlashScale>9</muzzleFlashScale>
@@ -212,7 +212,7 @@
     <AmmoUser>
       <magazineSize>6</magazineSize>
       <reloadTime>3.66</reloadTime>
-      <ammoSet>AmmoSet_762x39mmSoviet</ammoSet>
+      <ammoSet>AmmoSet_44Magnum</ammoSet>
     </AmmoUser>
   
     <FireModes />
